@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: black;
+  color: white;
+  overflow: hidden; /* prevent scrollbars from stars */
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
